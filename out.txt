@@ -1,0 +1,10 @@
+AIDS,1,2
+cancer,3,
+disease,5,6
+malaria,,
+tuberculosis,,
+diabetes mellitus,,
+Ebola virus disease,,
+influenza,,
+cholera,,
+Alzheimer,,
