@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9923743-7cc8-4589-8304-7c3e0ce87c0e" name="Default Changelist" comment="" />
+    <list default="true" id="d9923743-7cc8-4589-8304-7c3e0ce87c0e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/181128_Wikitranslations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/181128_Wikitranslations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rotation-Proposal-Form-2018-Su.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rotation-Proposal-Form-2018.pdf" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="76" column="24" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
+            <state relative-caret-position="1020">
+              <caret line="84" column="21" lean-forward="true" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -28,6 +33,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -36,11 +44,11 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
-    <option name="height" value="837" />
+    <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -133,18 +141,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548465632338</updated>
-      <workItem from="1548465634820" duration="1786000" />
+      <workItem from="1548465634820" duration="2637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1786000" />
+    <option name="totallyTimeSpent" value="2637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24388489" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2086331" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -177,10 +185,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/out.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="76" column="24" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
+        <state relative-caret-position="1020">
+          <caret line="84" column="21" lean-forward="true" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
